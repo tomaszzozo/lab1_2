@@ -12,10 +12,10 @@
  */
 package pl.com.bottega.ecommerce.canonicalmodel.publishedlanguage;
 
+import org.apache.commons.lang3.Validate;
+
 import java.io.Serializable;
 import java.util.UUID;
-
-import org.apache.commons.lang3.Validate;
 
 public class Id implements Serializable {
 
